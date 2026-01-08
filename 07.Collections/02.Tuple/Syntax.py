@@ -15,7 +15,7 @@ print("Any type of data can be stored:", tuple_data)
 print()
 
 #           We cannot modify the tuple items (Immutable)
-# tuple_data[0] = 10   ❌ Error: tuple does not support item assignment
+# tuple_data[0] = 10   
 
 #           But we can access tuple elements
 print("First element:", tuple_data[0])
